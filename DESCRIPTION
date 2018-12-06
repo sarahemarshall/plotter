@@ -1,0 +1,9 @@
+Package: plotter
+Type: Package
+Title: Assorted plotting functions
+Version: 1.0
+Date: 2018-12-07
+Author: Sarah Marshall
+Maintainer:  <sarah.marshall@aut.ac.nz>
+Description: Functions for plotting data
+License: What license is it under?
